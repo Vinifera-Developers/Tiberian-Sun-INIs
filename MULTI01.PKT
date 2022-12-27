@@ -1,0 +1,125 @@
+; Enumeration of multiplayer maps
+;
+; 1= < mapname without .map extension >
+
+[MultiMaps]
+1=DUEL
+2=FLOAT
+3=TIERS
+4=SPRINGS
+5=2TEMP7
+6=PERMFRST
+7=1LWORLD7
+8=3TWEAK10
+9=XCAPADES
+10=CITYSCAP
+11=NARROW
+12=1ICE6
+13=DRAWBRID
+14=RIVRRAD4
+
+
+; Map description
+;
+; Decription= < Map description >
+; CD= < Disk number where map where located (0 = GDI disk, 1 = NOD disk, 2 = Firestorm >
+; MinPlayers= < Minimum number of players allowed >
+; MaxPlayers= < Maximum number of players allowed >
+
+
+[DUEL]
+Description=FS Dueling Islands (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+
+
+[FLOAT]
+Description=FS They All Float (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+
+
+[TIERS]
+Description=FS Tiers of Sorrow (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+
+
+[SPRINGS]
+Description=FS Hot Springs (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+
+
+[2TEMP7]
+Description=FS Hidden Valley (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+
+
+[PERMFRST]
+Description=FS Permafrost (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+
+
+[1LWORLD7]
+Description=FS Theme Park (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+
+
+[3TWEAK10]
+Description=FS Tiberium Forest (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+
+
+[XCAPADES]
+Description=FS Xcapades (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+
+
+[CITYSCAP]
+Description=FS Cityscape (4-6)
+CD=2
+MinPlayers=4
+MaxPlayers=6
+
+
+[NARROW]
+Description=FS Narrow River (4-6)
+CD=2
+MinPlayers=4
+MaxPlayers=6
+
+
+[1ICE6]
+Description=FS Nowhere to Run (4-6)
+CD=2
+MinPlayers=4
+MaxPlayers=6
+
+
+[DRAWBRID]
+Description=FS Drawbridges (6-8)
+CD=2
+MinPlayers=6
+MaxPlayers=8
+
+
+[RIVRRAD4]
+Description=FS River Raid (6-8)
+CD=2
+MinPlayers=6
+MaxPlayers=8
