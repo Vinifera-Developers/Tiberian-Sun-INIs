@@ -1,0 +1,99 @@
+Tiberian Sun Patch
+Ver. 1.13
+September 29, 1999
+
+
+The following is a list of bugs and additions included in 
+this patch.
+
+Design related issues.  Only effective in multiplay and 
+skirmish.
+
+Nod Artillery: 	Rate of fire decreased
+		Damage decreased, approximately 20%
+		Less effective against infantry
+
+Nod SAM site:	Power requirements are now double.
+
+GDI Disc throwers: Disc throwers now explode when killed 
+and damage any nearby units.
+
+Concrete and Firestorm walls:  These walls now build like
+laser fences.  If you place one wall section and then 
+place a second, a line is drawn indicating that a wall 
+segment will be built between the two sections.  You are 
+only charged for the cost of the end pieces of the wall, 
+not the connecting pieces.  Also, walls can be sold but 
+you will not receive money for sold sections.   
+Note: If there is an obstacle such as a unit or structure 
+that appears between the sections during placement, the 
+two sections will not connect.
+
+
+Bug fixes:
+
+Structures cannot be built off of laser fence posts.
+
+If you wall your MCV in and undeploy it, it no longer 
+disappears.
+
+Holding down 'X' (scatter) key or any other keyboard 
+'event' generating command causes disconnect in modem or 
+dialup internet game. 
+
+Hunter Seeker code prioritizes targets that could affect 
+end-game situations in multiplayer.
+
+When harvester truce is enabled, hunter-seekers will no 
+longer destroy harvesters.
+
+Trainer programs can no longer cheat to unshroud the map.
+
+Trainer programs cannot be used to disable Fog of War 
+during a game where Fog of War has been enabled.
+
+When the message 'Computer has been defeated' is printed 
+when an AI loses, the message is printed in the color that 
+matches the AI's units.
+
+The crash caused when an engineer captures a construction 
+yard while the building placement cursor is active is fixed.
+
+Banshees can now fire on enemy units or force-fire on the 
+ground within the area of effect of a stealth generator.
+
+When ordering air units to travel to the top few spaces of 
+a map where there is a lot of water, aircraft now land on 
+the nearest spot of dry land rather than directly on the water.
+
+The Firestorm defense no longer stays up indefinitely when 
+power goes low.
+
+The crash when destroying a vein hole monster has been fixed.  
+This crash usually only happened after an extended period of 
+gameplay once the vein hole monster has been killed.
+
+The game can now run from any valid CD drive, not just the one 
+with the first drive letter.
+
+French and German sidebar text no longer overflows onto 
+sidebar icons.
+
+Ping meters are no longer partially covered by the scrollbars 
+in the WOL lobby.
+
+Find game dialog has been sped up. 
+
+Occasionally when joining a full game channel an incorrect 
+error message was displayed in your message window.  This 
+no longer happens.
+
+
+
+
+
+
+
+
+
+
