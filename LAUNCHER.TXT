@@ -1,6 +1,12 @@
 Tiberian Sun Patch
-Ver. 1.17
-December 9, 1999
+Ver. 1.17a
+January 12, 2000
+
+Changes in V. 1.17a
+-------------------
+
+-  Fixed bug where buildings could be built in arbitrary
+   locations.
 
 Changes in V. 1.17
 ------------------
@@ -20,8 +26,8 @@ Changes in V. 1.17
 
 -  Server list no longer displays duplicate servers.
 
-Changes in V 1.16a.1
---------------------
+Changes in V. 1.16a.1
+---------------------
 
 - Fixed bug where harvester truce could be on in a skirmish game.
 
