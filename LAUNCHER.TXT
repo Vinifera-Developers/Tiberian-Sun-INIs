@@ -1,6 +1,44 @@
 Tiberian Sun Patch
-Ver. 1.17a
-January 12, 2000
+Version 2.02
+February 24, 2000
+
+Changes in V. 2.02
+------------------
+-  Out of sync between Tiberian Sun and Firestorm in Tiberian
+   Sun mode is fixed.
+
+-  Technicians being incorrectly substituted for engineers in 
+   various circumstances in non-English Firestorm is fixed.
+
+-  World Domination Tour map settings don't get changed with
+   "Surprise Me".
+
+Changes in V. 2.0
+-----------------
+-  Skirmish games may now be saved.
+
+-  Ability to select all units of a type or types on screen that
+   are currently selected.  Functionality must be assigned to a key
+   manually in 'Options - Keyboard' menu under 'Selection Category 
+   - Select Same Type'.
+
+-  New main menu allows faster access to different game types
+   (except in the Spanish version).
+
+-  Location and server selection integrated into Westwood
+   Online login dialog.
+
+-  User locations are displayed in the Westwood Online user
+   list tooltips.
+
+-  Full games are greyed out in the Westwood Online games 
+   list.
+
+-  Battleclan and Firestorm ladders are now browsable in the
+   Westwood Online ladder screen.
+
+-  Host location filter added to Westwood Online find game
+   screen.   
 
 Changes in V. 1.17a
 -------------------
