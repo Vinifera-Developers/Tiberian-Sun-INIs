@@ -1,6 +1,22 @@
 Tiberian Sun Patch
-Version 2.02
-February 24, 2000
+Version 2.03
+May 31, 2000
+
+Changes in V. 2.03
+------------------
+-  Fixed bug that could have a negative impact on game 
+   performance at the beginning of a multiplayer game.
+
+-  Fixed bug that could cause the game to lock up if a player 
+   sold their last building after surrendering.
+
+-  Fixed bug that allowed cheating players to lock their opponent's
+   harvesters out of their own refineries.
+     
+-  Mammoth Mk II hit points changed from 800 to 1200.
+     
+-  Fixed a condition where a multiplayer disconnect would 
+   occasionally fail to be reported.
 
 Changes in V. 2.02
 ------------------
